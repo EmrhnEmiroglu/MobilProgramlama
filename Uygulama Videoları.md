@@ -20,3 +20,8 @@ https://github.com/user-attachments/assets/0847ba9d-7fc7-4cad-8f1d-524cd8a29e5a
 6. Hafta Sensör Uygulaması
 https://github.com/user-attachments/assets/22733a9e-2f6e-433a-b150-a1db881bc924
 
+7. Hafta Veritabanı Uygulaması
+https://github.com/user-attachments/assets/42f219cb-787a-434b-90b8-1b83402c8317
+
+
+
